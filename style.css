@@ -1,0 +1,29 @@
+body{ 
+    font-family: Arial, sans-serif; 
+    background-color: rgb(48, 46, 46);
+}
+
+.chat-box { width: 100%; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; }
+
+.chat-button { 
+    padding: 10px 20px; 
+    border: none;
+    background-color: #4ee590; 
+    color: #fff; 
+    border-radius: 5px; 
+    cursor: pointer; }
+
+.chat-button:hover { 
+    background-color: #31b96c; 
+}
+        
+.response { 
+    margin-top: 20px; 
+    padding: 10px; 
+    border: 1px solid #4ee590; 
+    border-radius: 5px; 
+}

@@ -1,0 +1,17 @@
+[
+    {"text": "What are the directions to the nearest mental health facilities?", "intent": "directions"},
+    {"text": "Where is the nearest facility?", "intent": "directions"},
+    {"text": "How do I get to the closest mental health center?", "intent": "directions"},
+    {"text": "Can you guide me to a nearby psychiatric facility?", "intent": "directions"},
+    {"text": "What's the quickest route to a mental health clinic?", "intent": "directions"},
+    {"text": "Where can I find the nearest mental health facility?", "intent": "directions"},
+    {"text": "Directions to the closest psychiatric hospital", "intent": "directions"},
+    {"text": "Find me a nearby mental health center", "intent": "directions"},
+    {"text": "What is the capital of Romania?", "intent": "Capital"},
+    {"text": "What is the capital of France?", "intent": "Capital"},
+    {"text": "Where is Paris?", "intent": "Capital"},
+    {"text": "What is Paris to France?", "intent": "Capital"},
+    {"text": "Can you tell me the capital city of Germany?", "intent": "Capital"},
+    {"text": "What's the capital of Japan?", "intent": "Capital"},
+    {"text": "Name the capital of Australia", "intent": "Capital"}
+]

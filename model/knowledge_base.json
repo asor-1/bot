@@ -1,0 +1,45 @@
+[
+  {
+    "content": "Paris is the largest city in France",
+    "title": "Document 1",
+    "author": "n/a"
+  },
+  {
+    "content": "The capital of France is Paris",
+    "title": "Document 2",
+    "author": "Alex"
+  },
+  {
+    "content": "Paris is a good city within France",
+    "title": "Document 3",
+    "author": "Alex"
+  },
+  {
+    "content": "Paris is the best place in France",
+    "title": "Document 4",
+    "author": "Alex"
+  },
+  {
+    "content": "Bucharest is the capital city of Romania",
+    "title": "Document 5",
+    "author": "Alex"
+  }
+  ,
+  {
+    "content": "Toyko is the Capital of Japan",
+    "title": "Document 6",
+    "author": "Alex"
+  }
+  ,
+  {
+    "content": "Melbourne is the capital of Australia",
+    "title": "Document 7",
+    "author": "Alex"
+  }
+  ,
+  {
+    "content": "Bucharest is the capital city of Romania",
+    "title": "Document 8",
+    "author": "Alex"
+  }
+]
